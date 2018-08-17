@@ -22,3 +22,7 @@
 [climbing-stairs](DynamicProgramming/climbing-stairs.py)【Easy】
 
 [min-cost-climbing-stairs](DynamicProgramming/min-cost-climbing-stairs.py)【Easy】
+
+[maximum-subarray](DynamicProgramming/maximum-subarray.py)【Easy】
+
+[house-robber](DynamicProgramming/house-robber.py)【Easy】
