@@ -28,3 +28,5 @@
 [house-robber](DynamicProgramming/house-robber.py)【Easy】
 
 [range-sum-query-immutable](DynamicProgramming/range-sum-query-immutable.py)【Easy】
+
+[counting-bits](DynamicProgramming/counting-bits.py)【Easy】
