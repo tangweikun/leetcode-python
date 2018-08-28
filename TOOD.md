@@ -1,2 +1,4 @@
 - [] Minimum ASCII Delete Sum for Two Strings
 - [] Target Sum
+- [] Longest Palindromic Subsequence
+- [] Combination Sum IV
